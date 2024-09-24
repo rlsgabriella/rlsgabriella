@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Meu nome é Gabriella e sou desenvolvedora Full-stack</h3>
+<h3 align="left">Meu nome é Gabriella Rodrigues e sou desenvolvedora Full-stack</h3>
 
 ###
 
