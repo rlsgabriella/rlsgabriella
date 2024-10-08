@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Iniciando nesse mundo da programação<br>📚 Estou sempre estudando e buscando adquirir novos conhecimentos e habilidades<br>🎯 Formada pelo projeto Geração Tech e Graduanda em ADS<br></p>
+<p align="left">✨ Garota que programa<br>📚 Estou sempre estudando e buscando adquirir novos conhecimentos e habilidades<br>🎯 Formada pelo projeto Geração Tech e Graduanda em ADS<br></p>
 
 ###
 
