@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Meu nome é Gabriella Rodrigues sou Desenvolvedora Full-stack Jr, e atuo também como Monitora em um curso de desenvolvimento Full-Stack</h3>
+<h3 align="left">Meu nome é Gabriella Rodrigues sou Desenvolvedora Full-stack , e atuo também como Monitora em um curso de desenvolvimento Full-Stack</h3>
 
 ###
 
