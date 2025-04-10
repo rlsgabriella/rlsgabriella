@@ -36,8 +36,8 @@ Sou apaixonada por tecnologia, criação de soluções web e por compartilhar co
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rlsgabriella&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlsgabriella&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rlsgabriella&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=C%2B%2B,java" alt="Commit Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlsgabriella&layout=compact&langs_count=7&theme=radical&hide=c%2B%2B,java" alt="Top Languages" />
 </div>
 
 ---
