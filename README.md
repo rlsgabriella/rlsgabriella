@@ -1,13 +1,12 @@
-# Olá! 👋
+# Olá! 
 
-Seja bem-vindo(a) ao meu GitHub! 😊  
 Meu nome é **Gabriella Rodrigues**, sou **Desenvolvedora Full Stack** e também atuo como **Monitora** em um curso de desenvolvimento Full Stack.
 
 Sou apaixonada por tecnologia, criação de soluções web e por compartilhar conhecimento com outras pessoas da área!
 
 ---
 
-## 🚀 Tecnologias que utilizo:
+##  Tecnologias que utilizo:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -25,11 +24,11 @@ Sou apaixonada por tecnologia, criação de soluções web e por compartilhar co
 
 ## 📌 Sobre mim:
 
-- 👩‍💻 Desenvolvedora Full Stack com foco em aplicações web.
-- 🧠 Interesso-me por tecnologia, design de interfaces e boas práticas de código.
-- 🗣️ Participo de eventos e palestras sobre tecnologia.
-- 💡 Compartilho aprendizados como Monitora e gosto de ajudar outras pessoas na área tech.
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+-  Desenvolvedora Full Stack com foco em aplicações web.
+-  Interesso-me por tecnologia, design de interfaces e boas práticas de código.
+-  Participo de eventos e palestras sobre tecnologia.
+-  Compartilho aprendizados como Monitora e gosto de ajudar outras pessoas na área tech.
+-  Cursando **Análise e Desenvolvimento de Sistemas**.
 
 ---
 
