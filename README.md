@@ -1,6 +1,6 @@
 # Olá! 
 
-Meu nome é **Gabriella Rodrigues**, sou **Desenvolvedora Full Stack** e também atuo como **Monitora** em um curso de desenvolvimento Full Stack.
+Meu nome é **Gabriella Rodrigues**, sou **Desenvolvedora Full Stack** , atuo como **Monitora** em um curso de desenvolvimento Full Stack e Suporte Cloud.
 
 Sou apaixonada por tecnologia, criação de soluções web e por compartilhar conhecimento com outras pessoas da área!
 
@@ -26,7 +26,7 @@ Sou apaixonada por tecnologia, criação de soluções web e por compartilhar co
 
 -  Desenvolvedora Full Stack com foco em aplicações web.
 -  Interesso-me por tecnologia, design de interfaces e boas práticas de código.
--  Participo de eventos e palestras sobre tecnologia.
+-  Participo de eventos e realizo palestras sobre tecnologia.
 -  Compartilho aprendizados como Monitora e gosto de ajudar outras pessoas na área tech.
 -  Cursando **Análise e Desenvolvimento de Sistemas**.
 
