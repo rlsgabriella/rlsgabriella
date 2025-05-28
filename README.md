@@ -1,6 +1,6 @@
 # Olá! 
 
-Meu nome é **Gabriella Rodrigues**, sou **Desenvolvedora Full Stack** , atuo como **Monitora** em um curso de desenvolvimento Full Stack e Suporte Cloud.
+Meu nome é **Gabriella Rodrigues**, sou **Desenvolvedora Full Stack** , atuo como **Monitora** em um curso de desenvolvimento Full Stack , e atuando também em Suporte Cloud.
 
 Sou apaixonada por tecnologia, criação de soluções web e por compartilhar conhecimento com outras pessoas da área!
 
