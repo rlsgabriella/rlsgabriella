@@ -1,6 +1,6 @@
 # Olá! 
 
-Meu nome é **Gabriella Rodrigues**, sou **Desenvolvedora Full Stack** , atuo como **Monitora** em um curso de desenvolvimento Full Stack , e atuando também em Suporte Cloud.
+Meu nome é Gabriella Rodrigues, sou Desenvolvedora Full Stack. Atualmente, atuo como Monitora em um curso de Desenvolvimento Full Stack e também trabalho com Suporte Cloud.
 
 Sou apaixonada por tecnologia, criação de soluções web e por compartilhar conhecimento com outras pessoas da área!
 
@@ -42,8 +42,10 @@ Sou apaixonada por tecnologia, criação de soluções web e por compartilhar co
 ---
 
 ## 📫 Vamos nos conectar?
+📧 [rlsgabriella@gmail.com](mailto:rlsgabriella@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/gabriella-rodrigues-5b5416199/)
+📍 Fortaleza - CE
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriella-rodrigues-5b5416199/)
 
 ---
 
