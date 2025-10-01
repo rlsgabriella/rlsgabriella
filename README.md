@@ -1,6 +1,6 @@
 # Olá! 
 
-Meu nome é Gabriella Rodrigues, sou Desenvolvedora Full Stack. Atualmente, atuo como Monitora em um curso de Desenvolvimento Full Stack.
+Meu nome é Gabriella Rodrigues, sou Desenvolvedora Full Stack. Atualmente trabalho como Monitora em um curso de Desenvolvimento Full Stack.
 
 Sou apaixonada por tecnologia, criação de soluções web e por compartilhar conhecimento com outras pessoas da área!
 
