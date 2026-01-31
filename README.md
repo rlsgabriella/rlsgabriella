@@ -42,4 +42,4 @@ Sou **Desenvolvedora Full Stack** e **Monitora de Tecnologia**, apaixonada por t
 💼 [LinkedIn](https://www.linkedin.com/in/gabriella-rodrigues-5b5416199/)
 📍 Fortaleza - CE | Disponível para projetos e colaborações!
 
-✨ Obrigada por visitar! Sinta-se à vontade para explorar meus repositórios de automação e IA. 🚀
+✨ Obrigada por visitar! Sinta-se à vontade para explorar meus repositórios.
