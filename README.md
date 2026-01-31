@@ -1,53 +1,47 @@
-# Olá! 
+# Olá, eu sou a Gabriella Rodrigues! 👋
 
-Meu nome é Gabriella Rodrigues, sou Desenvolvedora Full Stack. Atualmente trabalho como Monitora em um curso de Desenvolvimento Full Stack.
-
-Sou apaixonada por tecnologia, criação de soluções web e por compartilhar conhecimento com outras pessoas da área!
+Sou **Desenvolvedora Full Stack** e **Monitora de Tecnologia**, apaixonada por transformar problemas complexos em automações inteligentes. Atualmente, foco meus estudos e projetos na interseção entre **IA Generativa**, **Automação Low-Code** e **Infraestrutura em Nuvem**.
 
 ---
 
-##  Tecnologias que utilizo:
+## 🛠️ No que estou focada agora:
+
+* **Automação e Orquestração**: Criando fluxos complexos no **n8n** integrando APIs de mensageria (WAHA) e bancos de dados.
+* **IA Multimodal**: Implementando soluções com **Google Gemini** para processamento de áudio, imagem (OCR) e texto.
+* **Infraestrutura Cloud**: Gerenciando servidores **AWS EC2** com ambientes conteinerizados em **Docker**.
+* **Qualidade de Dados**: Utilizando **JavaScript** para validar e tratar retornos de LLMs, garantindo a integridade em bancos **PostgreSQL**.
+
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40" alt="n8n" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
 </div>
-
----
 
 ## 📌 Sobre mim:
 
--  Desenvolvedora Full Stack com foco em aplicações web.
--  Interesso-me por tecnologia, design de interfaces e boas práticas de código.
--  Participo de eventos e realizo palestras sobre tecnologia.
--  Compartilho aprendizados como Monitora e gosto de ajudar outras pessoas na área tech.
--  Cursando **Análise e Desenvolvimento de Sistemas**.
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+* 👩‍🏫 **Monitora de Desenvolvimento Full Stack**, ajudando a formar a próxima geração de talentos tech.
+* 🎤 **Palestrante e entusiasta de comunidades**, compartilhando conhecimento sobre boas práticas e novas tecnologias.
+* 🚀 Desenvolvedora de soluções multimodais que unem o poder da IA à praticidade do dia a dia.
 
 ---
 
 ## 📊 GitHub Stats:
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rlsgabriella&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=C%2B%2B,java" alt="Commit Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlsgabriella&layout=compact&langs_count=7&theme=radical&hide=c%2B%2B,java" alt="Top Languages" />
-</div>
-
 ---
 
 ## 📫 Vamos nos conectar?
 📧 [rlsgabriella@gmail.com](mailto:rlsgabriella@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/gabriella-rodrigues-5b5416199/)
-📍 Fortaleza - CE
+📍 Fortaleza - CE | Disponível para projetos e colaborações!
 
-
----
-
-✨ Obrigada por visitar meu perfil! Fique à vontade para explorar meus projetos e repositórios! 🚀
+✨ Obrigada por visitar! Sinta-se à vontade para explorar meus repositórios de automação e IA. 🚀
