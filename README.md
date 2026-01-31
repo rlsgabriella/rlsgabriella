@@ -36,8 +36,6 @@ Sou **Desenvolvedora Full Stack** e **Monitora de Tecnologia**, apaixonada por t
 
 ---
 
-## 📊 GitHub Stats:
----
 
 ## 📫 Vamos nos conectar?
 📧 [rlsgabriella@gmail.com](mailto:rlsgabriella@gmail.com)  
